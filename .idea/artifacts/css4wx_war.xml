@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="css4wx:war">
+    <output-path>$PROJECT_DIR$/../css4wx/target</output-path>
+    <root id="archive" name="sboot.war">
+      <element id="artifact" artifact-name="css4wx:war exploded" />
+    </root>
+  </artifact>
+</component>
